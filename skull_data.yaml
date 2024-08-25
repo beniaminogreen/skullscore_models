@@ -1,0 +1,11 @@
+path: ./
+train: training_images/
+val: val_images/
+
+# Classes
+names:
+  0: pesant
+  1: bandit
+  2: preist
+  3: romantic
+  4: royal
