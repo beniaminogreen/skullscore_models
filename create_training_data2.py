@@ -109,5 +109,5 @@ def create_dataset(directory, n =2000):
 
 
 
-create_dataset("training_images", n = 10000)
-create_dataset("val_images", n = 500)
+create_dataset("training_images", n = 20000)
+create_dataset("val_images", n = 5000)

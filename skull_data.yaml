@@ -1,4 +1,4 @@
-path: ./
+path: /home/beniamino/skullscore_models/datasets/
 train: training_images/
 val: val_images/
 
